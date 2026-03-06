@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KCC Institute Clone</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="main-header">
+  <div class="container header-container">
+    <img src="img/logo.png" alt="KCCITM Logo" class="logo">
+    <nav class="nav-bar">
+      <ul>
+        <li><a href="#programs">Programs</a></li>
+        <li><a href="#life">Life@KCC</a></li>
+        <li><a href="#placements">Placements</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="hero-content">
+    <h1>WHERE TOMORROW STARTS TODAY</h1>
+    <p>Preparing future professionals by enhancing workforce readiness</p>
+    <a href="#programs" class="btn">Explore Programs</a>
+  </div>
+</section>
+
+<section id="programs" class="program-section">
+  <div class="container">
+    <h2>Programs Offered</h2>
+    <p>List of undergraduate and postgraduate programs.</p>
+  </div>
+</section>
+
+<footer id="contact">
+  <div class="container">
+    <p>Email: admissions@kccitm.edu.in</p>
+    <p>Address: 2B-2C Knowledge Park-III, Greater Noida, Uttar Pradesh</p>
+    <p>&copy; 2026 KCC Institute of Technology & Management</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
